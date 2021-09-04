@@ -8,7 +8,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./images/)
+![Screenshot](./images/Screenshot.png)
 
 
 ### Links
