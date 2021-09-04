@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap');
+
+body,html{
+    height:100%;
+    width:100%;
+    background-color: hsl(0, 0%, 98%);
+}
+p{
+    font-size:15px;
+    font-weight: 200;
+}
+h1{
+    font-size:2em;
+    font-weight:600;
+}
+.card{
+    border-top-width: 4px;
+}
+img{
+    width:55px;
+    display: flex;
+    align-self: flex-end;
+}
+.card-one{
+    border-top-color: hsl(180, 62%, 55%);
+}
+.card-two{
+    border-top-color: hsl(0, 78%, 62%) ;
+    margin-bottom:2em;
+}
+.card-three{
+    border-top-color: hsl(34, 97%, 64%) ;
+    margin-top:2em;
+}
+.card-four{
+    border-top-color: hsl(212, 86%, 64%) ;
+}
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
